@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".main.GaleriaActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Esta funcionalidad la encontraremos en el proyecto final, junto a las imagenes dinámicas y la aplicacion  externa para manejar todo el modo administrador, espero que haya sido de tu agrado la aplicación y recuerda que para poder registrarte debes de tocar el logo de la carta, un saludo antonio, cualquier consulta o aportacion para la mejora de la aplicacion está a su disposición el siguiente correo electronico : 2smrdavid@gmail.com :D"/>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Registrate</string>
+    <string name="btn_carta">Volver a la carta</string>
+    <string name="login_error_vacio">Porfavor rellene los campos para iniciar sesión</string>
+    <string name="login_error_fallo">La contraseña o el usuario no son correctos</string>
+    <string name="main_entrante">Entrantes</string>
+    <string name="main_carne">Carnes</string>
+    <string name="main_pescado">Pescado</string>
+    <string name="main_postres">Postres</string>
+    <string name="main_bebidas">Bebidas</string>
+    <string name="main_admin">AD</string>
+    <string name="main_galeria">Galeria</string>
+    <string name="alert_titulo">¡¡¡¡ Atención !!!!</string>
+    <string name="alert_descripcion">Esta ventana está reservada para el personal de la empresa - Muchas gracias que le sea de su agrado la comida.</string>
+    <string name="alert_confirmar">Entendido</string>
+    <string name="title_activity_scrolling">Entrantes</string>
+ <string name="anadir_nombre">Nombre del nuevo plato o bebida</string>
+    <string name="anadir_ingrediente">Ingredientes - Cantidad</string>
+    <string name="anadir_precio">Precio</string>
+    <string name="anadir_foto">Foto</string>
+    <string name="enviar_plato">Enviar</string>
+    <string name="error_anadir">Porfavor rellene todos los campos para crear un nuevo producto</string>
+    <string name="action_settings">Settings</string>
+    <string name="register_email">Email</string>
+    <string name="register_apellido">Apellido</string>
+    <string name="register_nombre">Introduzca su nombre</string>
+    <string name="register_tlfno">Telefono</string>
+    <string name="register_alias">Alias</string>
+    <string name="register_contrasena">Contraseña</string>
+    <string name="register_confirmar">Confirmar Contraseña</string>
+    <string name="register_btn_enviar">Enviar datos</string>
+</resources>

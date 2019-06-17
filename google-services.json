@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "469008846054",
+    "firebase_url": "https://carta-electronica.firebaseio.com",
+    "project_id": "carta-electronica",
+    "storage_bucket": "carta-electronica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469008846054:android:cbb34235f6f7aabb",
+        "android_client_info": {
+          "package_name": "com.example.davidvillena.carta_electronica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469008846054-td5fo6n2307t1j4q8keadhu5s1ederdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.davidvillena.carta_electronica",
+            "certificate_hash": "570c4ac95506b04b15544c8183401f7cd27da829"
+          }
+        },
+        {
+          "client_id": "469008846054-2kg5kba1ksij6p7br5b484jbddj2ra0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.davidvillena.carta_electronica",
+            "certificate_hash": "16fddaea596005e635dadfc4ed963515b747f7ed"
+          }
+        },
+        {
+          "client_id": "469008846054-3anb0dt5sj654sc5h7o9lfcvmstvo42u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDebKcJD2BPJhBSr25-0kosbatIB84XWiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469008846054-3anb0dt5sj654sc5h7o9lfcvmstvo42u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
